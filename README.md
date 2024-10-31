@@ -4,6 +4,8 @@
 
 WiseWal.ai is a comprehensive financial management tool designed to provide users with an intuitive, efficient way to track personal finances, manage expenses, and receive personalized financial advice. By integrating real-time tracking, a visually rich dashboard, and AI-driven insights, WiseWal.ai empowers users to make informed financial decisions.
 
+This project was developed as part of the Human Computer Interaction course. It is a group project that demonstrates a collaborative approach to creating a user-centered financial management tool.
+
 <b> Problem Statement </b>
 
 Many individuals struggle to manage their finances across multiple accounts and currencies, often due to a lack of a user-friendly and comprehensive financial tool. Current financial applications are either limited to expense tracking or financial advice, failing to provide a unified solution. WiseWal.ai addresses this gap by combining real-time expense tracking, multi-currency support, and actionable AI-driven insights in a single application.
